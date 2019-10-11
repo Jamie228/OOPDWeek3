@@ -7,39 +7,30 @@ namespace week3
     {
         static void Main(string[] args)
         {
-            List<Car> cars = new List<Car>();
+            List<Vehicle> vehicles = new List<Vehicle>();
 
-            cars.Add(new Car("Ford", "Fiesta"));
-            cars.Add(new Car("BMW", "X5"));
+            vehicles.Add(new Car("Ford", "Fiesta"));
+            vehicles.Add(new Car("BMW", "X5"));
+            vehicles.Add(new Motorbike("Yamaha", "R1"));
 
-            List<Motorbike> motorbikes = new List<Motorbike>();
-
-            motorbikes.Add(new Motorbike("Yamaha", "R1"));
-
-            foreach (Car car in cars)
+            foreach (Vehicle vehicle in vehicles)
             {
-                Console.WriteLine($"Car is a {car.Make} {car.Model}");
+                Console.WriteLine($"Vehicle is a {vehicle.Make} {vehicle.Model}");
             }
 
-            foreach (Car car in cars)
+            foreach (Vehicle vehicle in vehicles)
             {
                 for (int i = 0; i < 3; i++)
                 {
-                    AccelerateAndGetSpeed(car);
+                    AccelerateAndGetSpeed(vehicle);
                 }
             }
-
-            motorbikes[0].Accelerate();
-            motorbikes[0].Update();
-            motorbikes[0].Accelerate();
-            motorbikes[0].Update();
-            motorbikes[0].PullAWheelie();
         }
 
-        static void AccelerateAndGetSpeed(Car car)
+        static void AccelerateAndGetSpeed(Vehicle vehicle)
         {
-            car.Accelerate();
-            Console.WriteLine($"The {car.Make} {car.Model} is travelling at speed {car.Speed}");
+            vehicle.Accelerate();
+            Console.WriteLine($"The {vehicle.Make} {vehicle.Model} is travelling at speed {vehicle.Speed}");
         }
     }
 }

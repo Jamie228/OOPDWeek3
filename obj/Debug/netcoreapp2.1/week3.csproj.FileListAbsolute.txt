@@ -20,3 +20,14 @@ H:\GitHub\week3\obj\Debug\netcoreapp2.1\week3.pdb
 \\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Hamilton_P110103851\GitHub\week3\obj\Debug\netcoreapp2.1\week3.AssemblyInfo.cs
 \\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Hamilton_P110103851\GitHub\week3\obj\Debug\netcoreapp2.1\week3.dll
 \\peterborough.ac.uk\mfi\dfsACUserdata2\StudentH\UCP\Hamilton_P110103851\GitHub\week3\obj\Debug\netcoreapp2.1\week3.pdb
+E:\Files\University\GitHub\OOPDWeek3\bin\Debug\netcoreapp2.1\week3.deps.json
+E:\Files\University\GitHub\OOPDWeek3\bin\Debug\netcoreapp2.1\week3.runtimeconfig.json
+E:\Files\University\GitHub\OOPDWeek3\bin\Debug\netcoreapp2.1\week3.runtimeconfig.dev.json
+E:\Files\University\GitHub\OOPDWeek3\bin\Debug\netcoreapp2.1\week3.dll
+E:\Files\University\GitHub\OOPDWeek3\bin\Debug\netcoreapp2.1\week3.pdb
+E:\Files\University\GitHub\OOPDWeek3\obj\Debug\netcoreapp2.1\week3.csprojAssemblyReference.cache
+E:\Files\University\GitHub\OOPDWeek3\obj\Debug\netcoreapp2.1\week3.csproj.CoreCompileInputs.cache
+E:\Files\University\GitHub\OOPDWeek3\obj\Debug\netcoreapp2.1\week3.AssemblyInfoInputs.cache
+E:\Files\University\GitHub\OOPDWeek3\obj\Debug\netcoreapp2.1\week3.AssemblyInfo.cs
+E:\Files\University\GitHub\OOPDWeek3\obj\Debug\netcoreapp2.1\week3.dll
+E:\Files\University\GitHub\OOPDWeek3\obj\Debug\netcoreapp2.1\week3.pdb
